@@ -1,3 +1,13 @@
+My name is Kolby Snider and I love computers. I have a passion for programming tools that I either find interesting or useful
+
+## Interests
+- Offensive Security
+- Malware Developemnt
+- Reverse Engineering
+
+## Contact
+- kolby1503@gmail.com
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KolbySnider&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KolbySnider&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -12,17 +22,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
 </div>
-
-###
-
-<div align="left">
-  <a href="kolby1503@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
 
 ###
