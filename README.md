@@ -22,7 +22,7 @@ My name is Kolby Snider and I love computers. I have a passion for programming t
 </div>
 
 ###
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="43ff7725-ff3b-420e-bf94-9756afc3b654" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js">
+[![AWS Academy Graduate](https://images.credly.com/size/110x110/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)](https://www.credly.com/badges/43ff7725-ff3b-420e-bf94-9756afc3b654/public_url)
 
 
 ## Contact
