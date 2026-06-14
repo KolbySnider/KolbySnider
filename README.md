@@ -3,6 +3,7 @@ My name is Kolby Snider and I love computers. I have a passion for programming t
 ## Interests
 - Offensive Security
 - Malware Development
+- Computer Vision
 - Reverse Engineering
 ##
 
